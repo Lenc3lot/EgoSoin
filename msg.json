@@ -1,0 +1,44 @@
+[
+    {
+        "IdPatient": 303,
+        "Message": "Bonjour",
+        "DocDestintaire": "201",
+        "DateEnvoiMsg": "2023-04-26 12:18:45"
+    },
+    {
+        "IdPatient": 303,
+        "Message": "test",
+        "DocDestintaire": "202",
+        "DateEnvoiMsg": "2023-05-01 11:34:51"
+    },
+    {
+        "IdPatient": 303,
+        "Message": "zqesrdtcfvghbjnk,lkjghfgdxfgcjgcgcjghjgvhgdgfxvcvzdfzeevav",
+        "DocDestintaire": "202",
+        "DateEnvoiMsg": "2023-05-01 11:38:56"
+    },
+    {
+        "IdPatient": 303,
+        "Message": "Caca",
+        "DocDestintaire": "201",
+        "DateEnvoiMsg": "2023-05-01 13:36:27"
+    },
+    {
+        "IdPatient": 303,
+        "Message": "hdfuibfuizj",
+        "DocDestintaire": "202",
+        "DateEnvoiMsg": "2023-05-02 13:53:44"
+    },
+    {
+        "IdPatient": 303,
+        "Message": "Machine de Guerre en CSS",
+        "DocDestintaire": "201",
+        "DateEnvoiMsg": "2023-05-09 12:23:01"
+    },
+    {
+        "IdPatient": 303,
+        "Message": "sdndj",
+        "DocDestintaire": "202",
+        "DateEnvoiMsg": "2023-05-15 09:16:45"
+    }
+]

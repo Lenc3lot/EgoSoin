@@ -1,0 +1,106 @@
+*{
+  font-family: 'Montserrat', sans-serif;
+}
+
+body{
+  padding:0.5px;
+  margin: 0.5px;
+}
+
+#menu{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+#menu li{
+  
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+section{
+  display: flex;
+}
+
+
+section > div:nth-child(1), section > div:nth-child(3){
+  width:300px;
+}
+
+section > div:nth-child(2){
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  text-align: center;
+  border: solid;
+  margin: 1em;
+  padding: 1em;
+  background-color: lightgray;
+
+}
+
+section > div:nth-child(2)>a{
+  padding: 0.5em;
+  border: solid;
+  border-spacing: 5px;
+  text-decoration:  none;
+  color: black;
+  border-color: grey;
+}
+
+section > div{
+  width:100%;
+}
+
+section>div>form{
+  width:12em;
+}
+
+table {
+  margin:auto;
+  background-color: rgb(230, 230, 230);
+  border: 3px solid rgb(115, 157, 206);
+}
+
+th {
+  padding:3px 5px;
+  border:1px solid rgb(115, 157, 206);
+  font-size:14px;
+  color:rgb(26, 26, 26);
+  border-radius: 3px;
+  -moz-border-radius: 3px;
+  -webkit-border-radius: 3px;
+}
+
+.cookie{
+  display: flex;
+  justify-content: center;
+}
+  
+.znsaisie{
+  height: 12em;
+  width: 30em;
+  resize: none;
+}
+
+
+#btn {
+	min-height: 30px;
+	max-width: 80px;
+	background-color: black;
+	padding: 14px;
+	border-radius: 75px;
+}
+
+
+
+
+
